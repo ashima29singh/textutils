@@ -13,8 +13,7 @@ export default function About(props) {
       backgroundColor: props.mode === 'dark'? 'rgb(36 74 104)':'white'
       
     }
-    console.log(props);
-    console.log(myStyle);
+    
     
     return (
       
